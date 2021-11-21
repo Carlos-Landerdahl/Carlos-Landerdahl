@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-landerdahl&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  <a href="https://app.daily.dev/Carlos_lander"><img src="https://api.daily.dev/devcards/cb7134ad7561402fa480b0e3beb68812.png?r=ugs" width="400" alt="Carlos Roberto Landerdahl Neto's Dev Card"/></a>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
