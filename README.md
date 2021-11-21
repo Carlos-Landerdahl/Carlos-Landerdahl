@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou 100% focado em front-end
 - 🌱 Esdando Typescript
-- 👯 Entre em contato comigo: Carloslanderdahl27@gmail.com
 
 <div align="">
   <a href="https://github.com/Carlos-landerdahl">
