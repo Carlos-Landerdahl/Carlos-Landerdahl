@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu Git 🔥
 
 - 🔭 Atualmente estou 100% focado em front-end
-- 🌱 Esdando Typescript
+- 🌱 Estudando Typescript
 
 <div align="">
   <a href="https://github.com/Carlos-landerdahl">
