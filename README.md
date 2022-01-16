@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu Git 🔥
 
-- 🔭 Atualmente estou 100% focado em front-end
+- 🔭 Atualmente estou 100% focado em me tornar um dev full stack
 - 🌱 Estudando JavaScript
 
 <div align="">
