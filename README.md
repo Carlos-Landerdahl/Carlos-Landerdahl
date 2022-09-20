@@ -1,7 +1,6 @@
 ### Bem-vindo ao meu Github 🔥
 
-- 🔭 Atualmente estou 100% focado em me tornar um dev full stack
-- 🌱 Estudando JavaScript
+- 🔭 Atualmente estou 100% focado em me tornar um dev Front-End
 
 <div align="">
   <a href="https://github.com/Carlos-landerdahl">
