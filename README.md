@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu Github 🔥
 
-- 🔭 Atualmente estou 100% focado em me tornar um dev Front-End
+- 🔭 Dev Front-End
 
 <div align="">
   <a href="https://github.com/Carlos-landerdahl">
