@@ -1,7 +1,8 @@
 ### Bem-vindo ao meu Github 🔥
 
-- 🔭 Dev Front-End
-
+- Dev Front-End 🔭
+- Trabalhando no momento com Next.js / stitches / meta / ads / mongoDB 🔥
+- Estudando backend Java 📖
 <div align="">
   <a href="https://github.com/Carlos-landerdahl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-landerdahl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,6 +17,9 @@
   <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
