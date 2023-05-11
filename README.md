@@ -20,7 +20,7 @@
 ## Sobre mim: 
   <ul>
   <li>🕹️ Amante de Gears of Wars</li>
-  <li>💻 Experiência de 2 anos com desenvolvimento</li>
+  <li>💻 Experiência de 2 anos com desenvolvimento web</li>
   <li>✈️ Fã de viagens</li>
   <li>🥇 Já joguei cs competitivamente</li>
   </ul>
