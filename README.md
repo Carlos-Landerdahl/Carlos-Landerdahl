@@ -1,52 +1,89 @@
-# Bem-vindo ao meu Github 👋
-<div align="">
+# Seja bem-vindo 🔥
+
+<!-- Badges sociais -->
+<p align="center">
+  <a href="https://www.instagram.com/landerdahl_carlos/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carloslanderdahl">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:carloslanderdahl27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+## Sobre mim
+Sou desenvolvedor Front-End. Atualmente aprofundo meus conhecimentos em Next.js e exploro Backend com Java.
+
+- 🌏 De Uberlândia, Brasil
+- 💼 Front-End Developer
+- 📚 Backend com Java
+- 🕹️ Entusiasta de Gears of Wars
+- 🥇 Ex-jogador competitivo de CS:GO
+
+## Experiência Profissional
+- **Jan 2021 - Presente**: Prestando serviços de desenvolvimento de softawre
+- **Jan 2023 - Presente**: Frontend Developer, Loopfull
+- **Jan 2022 - Jan 2023**: Desenvolvedor / Head of Support, Solaland
+
+## Habilidades Técnicas
+- **Linguagens & Frameworks**: JavaScript, React, Next.js, Java, Spring
+  <br />
+  <p align="start">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="margin-right: 14px; width: 40px;"/>
+  </p>
+
+- **Banco de Dados**: MongoDB, MySQL, PostgreSQL
+  <br />
+  <p align="start">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin-right: 14px; width: 40px;"/>
+  </p>
+
+- **Ferramentas & Outros**: Git, GitHub, Figma, Docker, Linux
+  <br />
+  <p align="start">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin-right: 14px; width: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="margin-right: 14px; width: 40px;"/>
+  </p>
+
+<!-- Dynamic GitHub Stats -->
+## Estatísticas do GitHub
+<div align="center">
   <a href="https://github.com/Carlos-landerdahl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-landerdahl&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-landerdahl&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-landerdahl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Carlos's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-landerdahl&layout=compact&theme=tokyonight"/>
+  </a>
 </div>
-<br/>
-<div> 
-  <a href="https://www.instagram.com/landerdahl_carlos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/carloslanderdahl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-<br/>
-<p>Meu nome é Carlos Roberto e sou natural de Uberlândia 🌏</p>
-<p>💻 Front-End Developer</p>
-<ul>
-    <li>Trabalhando no momento com ( Next.js -> stitches -> meta -> ads -> mongoDB )</li>
-    <li>Estudando Backend Java 📖</li>
- </ul>
-  
-## Sobre mim: 
-  <ul>
-  <li>🕹️ Amante de Gears of Wars</li>
-  <li>💻 Experiência de 2 anos com desenvolvimento web</li>
-  <li>✈️ Fã de viagens</li>
-  <li>🥇 Já joguei cs competitivamente</li>
-  </ul>
 
-## Experiências
-  <ul>
-    <li>Jan 2021 - agora: Prestando serviços de desenvolvimento de softawre</li>
-    <li>Jan 2023 - Agora: Desenvolvedor Frontend, Loopfull</li>
-    <li>Jan 2022 - Jan 2023: Desenvolvedor / Head of Support, Solaland</li>
-  </ul>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/Carlos-landerdahl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-landerdahl&theme=tokyonight" alt="Carlos's streak"/>
+  </a>
+</p>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-  ##
-  ![Snake animation](https://github.com/Carlos-landerdahl/Carlos-landerdahl/blob/output/github-contribution-grid-snake.svg)
- 
+<!-- Troféus do GitHub -->
+## Troféus do GitHub
+<p align="center">
+  <a href="https://github.com/Carlos-landerdahl">
+    <img src="https://github-profile-trophy.vercel.app/?username=Carlos-landerdahl&theme=nord&no-frame=true" alt="Carlos's trophies"/>
+  </a>
+</p>
 
-
+<!-- Rodapé -->
+<p align="center">
+  <i>"A persistência é o caminho do êxito." - Charles Chaplin</i>
+</p>
