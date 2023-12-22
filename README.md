@@ -19,8 +19,6 @@ Sou desenvolvedor Front-End. Atualmente aprofundo meus conhecimentos em Next.js 
 - 🌏 De Uberlândia, Brasil
 - 💼 Front-End Developer
 - 📚 Backend com Java
-- 🕹️ Entusiasta de Gears of Wars
-- 🥇 Ex-jogador competitivo de CS:GO
 
 ## Experiência Profissional
 - **Jan 2021 - Presente**: Prestando serviços de desenvolvimento de softawre
