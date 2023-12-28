@@ -58,18 +58,14 @@ Sou desenvolvedor Front-End. Atualmente aprofundo meus conhecimentos em Next.js 
   </p>
 
 <!-- Dynamic GitHub Stats -->
-## Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/Carlos-landerdahl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-landerdahl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Carlos's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-landerdahl&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+<h2>Estatísticas do GitHub <img src="https://komarev.com/ghpvc/?username=Carlos-landerdahl" align="center"/></h2>
 
-<!-- GitHub Streak Stats -->
 <p align="center">
   <a href="https://github.com/Carlos-landerdahl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-landerdahl&theme=tokyonight" alt="Carlos's streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Landerdahl&show_icons=true&theme=dracula" alt="Carlos's streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-landerdahl&theme=dracula" alt="Carlos's streak"/>
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-landerdahl&layout=donut&theme=dracula"/>
   </a>
 </p>
 
