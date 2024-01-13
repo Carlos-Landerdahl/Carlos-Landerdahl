@@ -63,19 +63,12 @@ Sou desenvolvedor Front-End. Atualmente aprofundo meus conhecimentos em Next.js 
 <p align="center">
   <a href="https://github.com/Carlos-landerdahl">
     <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Landerdahl&show_icons=true&theme=dracula" alt="Carlos's streak"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-landerdahl&theme=dracula" alt="Carlos's streak"/>
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-landerdahl&layout=donut&theme=dracula"/>
   </a>
 </p>
 
-<!-- Troféus do GitHub -->
-## Troféus do GitHub
-<p align="center">
-  <a href="https://github.com/Carlos-landerdahl">
-    <img src="https://github-profile-trophy.vercel.app/?username=Carlos-landerdahl&theme=nord&no-frame=true" alt="Carlos's trophies"/>
-  </a>
-</p>
+![Snake animation](https://github.com/Carlos-Landerdahl/Carlos-Landerdahl/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Rodapé -->
 <p align="center">
